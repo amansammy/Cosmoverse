@@ -107,6 +107,7 @@
 
 .body-2 {
   background-image: linear-gradient(167deg, #070707, #1d1d1d);
+  overflow-x: hidden;
 }
 
 .navbar-no-shadow-container {
@@ -520,6 +521,7 @@
   background-position: 50%;
   background-size: 1920px;
   background-attachment: fixed;
+  overflow-x: hidden;
 }
 
 .section-3 {
