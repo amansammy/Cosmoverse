@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
         closeButton
     });
 
-    const apiKey = 'UFHJGBOLW3NL4crKFWnUo1hD4wOlpAdFeJdjCKJo'; // Replace with your actual NASA API key
+    const apiKey = 'vGg2patsJgUyKHwtG1eUEZMITn5LOwykL2eCg2NM'; // Replace with your actual NASA API key
     const apodUrl = `https://api.nasa.gov/planetary/apod?api_key=${apiKey}`;
 
     // Fetch and display APOD
